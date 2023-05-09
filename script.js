@@ -17,7 +17,7 @@ function definirTamanhoIframe() {
 
 // Lista de links cadastrados
 var links = [
-    "imgs/keepers.png",
+    "imgs/Keepers.png",
     "imgs/FormsFeedback.gif",
     "imgs/vemAi.gif",
     /*
