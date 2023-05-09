@@ -17,10 +17,11 @@ function definirTamanhoIframe() {
 // Lista de links cadastrados
 var links = [
     "https://drive.google.com/file/d/1D7oT6xbwJMZOuemyPI0H_0pNxY84dZmJ/preview",
+    "https://drive.google.com/file/d/13TPhtzS3TnrHEZlwqdUmhjVoryUHXsfE/preview",
     "imgs/Keepers.png",
+    /*
     "imgs/FormsFeedback.gif",
     "imgs/vemAi.gif",
-    /*
     "https://dti.ag/LinksGestoAVista1",
       "https://dti.ag/LinksGestoAVista2",
       "https://dti.ag/LinksGestoAVista3",
