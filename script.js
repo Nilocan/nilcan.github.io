@@ -16,6 +16,7 @@ function definirTamanhoIframe() {
 }
 // Lista de links cadastrados
 var links = [
+    "imgs/Keepers.png",
     "https://drive.google.com/file/d/1D7oT6xbwJMZOuemyPI0H_0pNxY84dZmJ/preview",
     "imgs/FormsFeedback.gif",
     "imgs/Keepers.png",
