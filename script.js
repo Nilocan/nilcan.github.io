@@ -14,11 +14,11 @@ function definirTamanhoIframe() {
         iframe.height = this.height;
     }
 }
-
 // Lista de links cadastrados
 var links = [
-    "imgs/keepers.png",
+    "https://drive.google.com/file/d/1D7oT6xbwJMZOuemyPI0H_0pNxY84dZmJ/preview",
     "imgs/FormsFeedback.gif",
+    "imgs/Keepers.png",
     "imgs/vemAi.gif",
     /*
     "https://dti.ag/LinksGestoAVista1",
@@ -47,16 +47,20 @@ function pararRotina() {
 function definirTamanhoIframe() {
     // Seleciona o elemento iframe
     const iframe = document.getElementById('link-iframe');
-  
     // Cria um objeto Image para carregar a imagem
     const img = new Image();
+
   
     // Define a fonte da imagem como a fonte do iframe
     img.src = iframe.src;
-  
+
     // Define a largura e altura do iframe com base no tamanho da imagem
     img.onload = function() {
       iframe.width = this.width;
       iframe.height = this.height;
+
+
     }
   }
+
+
